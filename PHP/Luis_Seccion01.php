@@ -7,6 +7,7 @@
     <title>Sección 01</title>
 </head>
 <body>
+    <div>
     <?php
     function cypherHalf1($i){
         $sum = $i+7;
@@ -25,7 +26,7 @@
 
     ?>
     </pre>
-    
+    </div>
 </body>
 </html>
 <pre>
